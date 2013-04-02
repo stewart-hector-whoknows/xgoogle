@@ -5,8 +5,6 @@
 #
 
 from xlrd import open_workbook
-from xgoogle.search import GoogleSearch, SearchError
-
 
 def googleFind(company, file):
     try:
