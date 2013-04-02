@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # This program does a Google search for "quick and dirty" and returns
-# 50 results.
+# 50 results. :)))
 #
 
 from xlrd import open_workbook
